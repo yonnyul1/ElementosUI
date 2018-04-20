@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
+    tools:context="com.yonnyul.elementosui.Activity_Checkbox">
+
+    <CheckBox
+        android:id="@+id/chbMostrar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="92dp"
+        android:checked="false"
+        android:contextClickable="false"
+        android:labelFor="@id/chbMostrar"
+        android:onClick="mostrarContrasena"
+        android:text="@string/Password" />
+
+
+    <EditText
+        android:id="@+id/edtClave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/chbMostrar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="82dp"
+        android:ems="10"
+        android:inputType="text|textPersonName"
+        android:labelFor="@id/edtClave" />
+
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tgButton" type="id">tgButton</item>
+    <item name="rdGroup" type="id" />
+    <item name="rbM" type="id">rbM</item>
+    <item name="rbF" type="id">rbF</item>
+    <item name="editText" type="id" />
+</resources>

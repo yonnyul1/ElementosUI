@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Elementos UI</string>
+    <string name="boton1">BOTONES</string>
+    <string name="boton2">RADIO BUTTON</string>
+    <string name="boton3">CHECKBOX</string>
+    <string name="boton4">SPINNER</string>
+    <string name="boton5">LISTA</string>
+    <string name="Password">Mostrar Contraseña</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="swuitch">Switch</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="switche">Switch</string>
+    <string name="opciones">Selecione una opcion</string>
+
+
+</resources>
